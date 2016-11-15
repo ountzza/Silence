@@ -156,7 +156,7 @@ public class MainActivity extends AppCompatActivity {
                 case 2:
                     return "SECTION 3";
                 case 3:
-                    return "SECTION 3";
+                    return "SECTION 4";
             }
             return null;
         }
